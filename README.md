@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component
 
-![Link to solution](https://3-column-preview-card-component-gray.vercel.app/)
+[Link to solution](https://3-column-preview-card-component-gray.vercel.app/)
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
 
